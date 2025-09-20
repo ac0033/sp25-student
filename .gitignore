@@ -7,6 +7,8 @@ __pycache__/
 
 # Databases / large binaries
 *.db
+*.db.wal
+*.db-shm
 *.duckdb
 *.sqlite
 *.sqlite3

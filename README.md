@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://ds100.org/course-notes/logo.png" alt="Data 100" width="200"/>
-</p>
-
 <h1 align="center">Data 100: Principles and Techniques of Data Science</h1>
 
 <p align="center">
